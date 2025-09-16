@@ -6,7 +6,7 @@ This project analyzes **coffee shop sales data** to uncover trends, customer pre
 The dataset contains **149,000+ transactions** from multiple store locations, covering product categories, sales by time of day, and customer purchasing patterns.  
 
 ## 📂 Dirty Dataset  <a href='https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Shop%20Sales.xlsx'>Raw Data<a/>
-## 📂 Cleaned Dataset < a href='https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Shop%20Sales_cleaned%20data%20Project.xlsx'>Cleaned Data<a/>
+## 📂 Cleaned Dataset <a href='https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Shop%20Sales_cleaned%20data%20Project.xlsx'> Cleaned Data <a/>
 
 
 ## 📊 Dashboard Preview  
