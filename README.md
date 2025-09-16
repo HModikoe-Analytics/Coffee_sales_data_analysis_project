@@ -108,7 +108,7 @@ It is designed to demonstrate **real-world analytics skills** that can help busi
 
 # 👤 Project Author
 Happy Thabo Modikoe
-📧 happythabomodikoe | 🌐 www.linkedin.com/in/happy-thabo-modikoe
+📧  happythabomodikoe@gmail.com | 🌐 www.linkedin.com/in/happy-thabo-modikoe
 
 
 
