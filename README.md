@@ -10,7 +10,7 @@ The dataset contains **149,000+ transactions** from multiple store locations, co
 
 
 ## 📊 Dashboard Preview  
-<a href="">View Dashboard<a/>
+<a href="https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee_sales_analysis%20Project.png">View Dashboard<a/>
 
 The analysis answers key business questions such as: 
 
