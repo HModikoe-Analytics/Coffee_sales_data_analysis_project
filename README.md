@@ -5,14 +5,20 @@
 This project analyzes **coffee shop sales data** to uncover trends, customer preferences, and business insights.  
 The dataset contains **149,000+ transactions** from multiple store locations, covering product categories, sales by time of day, and customer purchasing patterns.  
 
-## 📂 Dataset  <a href='https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Shop%20Sales.xlsx'><a/>
+## 📂 Dirty Dataset  <a href='https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Shop%20Sales.xlsx'>Raw Data<a/>
+## 📂 Cleaned Dataset < a href="https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Shop%20Sales_cleaned%20data%20Project.xlsx">Cleaned Data<a/>
+
+
+## 📊 Dashboard Preview  
+<a href="">View Dashboard<a/>
 
 The analysis answers key business questions such as: 
 
 - What products generate the highest revenue?  
 - Which store location performs best?  
 - What are the busiest sales times and days?  
-- How can the coffee shop increase revenue and efficiency?  
+- How can the coffee shop increase revenue and efficiency?
+ 👉 Full details:  <a href="https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Sales%20Project%20%E2%80%93%20Questions%20Answered%20.pdf">key business questions <a/>
 
 ---
 
@@ -29,7 +35,8 @@ The analysis answers key business questions such as:
 - **Best-Performing Store:** Lower Manhattan outperforms other locations.  
 - **Peak Sales Hours:** Morning rush (7 AM – 10 AM).  
 - **Weekday vs Weekend:** Sales are stronger during weekdays compared to weekends.  
-- **Average Transaction Value:** Between $5–$10 depending on store and product mix.  
+- **Average Transaction Value:** Between $5–$10 depending on store and product mix.
+👉 Full details: <a href="https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Sales%20Project%20%E2%80%93key%20insights%20.pdf">Key Insights<a/>
 
 ---
 
@@ -39,9 +46,10 @@ The analysis answers key business questions such as:
 - Standardized column names for consistency.  
 - Converted dates and times to proper formats (YYYY-MM-DD, HH:MM:SS).  
 - Created calculated fields such as **Revenue = Quantity × Unit Price**.  
-- Extracted new time-based features (Month, Weekday, Hour).  
+- Extracted new time-based features (Month, Weekday, Hour).
+ 👉 Full details: <a href= "https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Sales%20Project-Data%20cleaning%20process.pdf">Data Cleaning Summary <a/>  
 
-👉 Full details: [`notebooks/cleaning_process.md`](notebooks/cleaning_process.md)  
+
 
 ---
 
@@ -53,21 +61,11 @@ The analysis answers key business questions such as:
 - Time-based analysis (monthly, weekly, hourly).  
 - Pivot tables and interactive Excel dashboard.  
 
-👉 Full details: [`reports/analysis_steps.md`](reports/analysis_steps.md)  
+
 
 ---
 
-## ❓ Business Questions Answered 
 
-- Which products and categories generate the most revenue?  
-- Which store location performs best?  
-- What are the busiest days and hours?  
-- How do sales vary between weekdays and weekends?  
-- What is the average revenue per transaction?  
-
-👉 Full details: [`reports/questions_and_answers.md`](reports/questions_and_answers.md)  
-
----
 
 ## 💡 Insights & Recommendations  
 
@@ -77,7 +75,7 @@ The analysis answers key business questions such as:
 - Weekday sales stronger → introduce weekend promotions to balance sales.  
 - Average spend per transaction is $5–$10 → apply upselling and product bundling.  
 
-👉 Full details: [`reports/insights_and_recommendations.md`](reports/insights_and_recommendations.md)  
+👉 Full details: <a href="https://github.com/HModikoe-Analytics/Coffee_sales_data_analysis_project/blob/main/Coffee%20Sales%20Project%20%E2%80%93Business%20Recommendations.pdf"> Recommendations <a/> 
 
 
 ---
